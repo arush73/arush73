@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <a href="https://instagram.com/arush73" target="_blank">
+  <a href="https://instagram.com/arush__73" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" style="margin:4px;" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/ralphaaaa" target="_blank">
